@@ -1,5 +1,6 @@
-# docker-alpine-jre
+## docker-alpine-jre
+
 Alpine 3.10.3
 
-JRE 8u231
+Java jre-8u231
 
