@@ -1,5 +1,4 @@
 # docker-alpine-jre
-The image size is only 257MB
 
 ## environment
 ```
