@@ -1,10 +1,8 @@
 # docker-alpine-jre
 
 ### environment
-```
-Alpine 3.10.3
-Java jre-8u231
-```
+> Alpine 3.10.3
+> Java jre-8u231
 
 ### run
 ```
