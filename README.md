@@ -1,4 +1,5 @@
 # docker-alpine-jre
+集成Java环境的Docker镜像
 
 ## environment
 ```
